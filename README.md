@@ -17,6 +17,7 @@ A curated list of educational resources sorted by technology type and category.
 
 - **JavaScript Basics** - Explore the fundamentals of JavaScript.
   - [Mozilla Developer Network (MDN) JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [TC39 Latest ECMAScript Proposals](https://github.com/tc39/ecma262/)
   - [JavaScript30](https://javascript30.com) - Build 30 things in 30 days with vanilla JS.
 - **React**
   - [React Official Learning Path](https://react.dev/learn) - A comprehensive learning path to understanding React.
