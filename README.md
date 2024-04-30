@@ -32,7 +32,7 @@ A curated list of educational resources sorted by technology type and category.
 
 - **Apollo GraphQL for React**
   - [Learn to use Apollo with React for managing GraphQL data](https://www.apollographql.com/docs/react/)
-  - [Zero to GraphQL in 30 minutes](https://www.youtube.com/watch?v=UBGzsb2UkeY) - A crash course in GraphQL.
+  - [Zero to GraphQL in 30 minutes](https://youtu.be/UBGzsb2UkeY?feature=shared&t=872) - A crash course in GraphQL.
 
 
 ### Full Stack Development
