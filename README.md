@@ -89,3 +89,6 @@ A curated list of educational resources sorted by technology type and category.
   - [Terraform Learning Resources](https://developer.hashicorp.com/terraform?product_intent=terraform)
 - **Redis University**
   - [Redis Courses](https://redis.io/university/)
+
+## Resources
+- [Cypress testing starter kit](https://github.com/SFG20/automation-starter-kit) - An example project to experiment with.
