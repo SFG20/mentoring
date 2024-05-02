@@ -5,8 +5,7 @@ This is a curated list of learning links to assist in learning the technology st
 ## Background reading
 
 - [An introduction and explanation of our design pattern and architecture](https://dev.to/miketalbot/inversion-of-control-pt-0-introduction-190b)
-  Here's a case study from one of our colleagues who has successfully completed our Junior Developer programme:
-- [Junior Software Developer - Oliver Dunn](https://www.prospects.ac.uk/case-studies/junior-software-developer-oliver-dunn)
+- [What you can expect on your journey as a Junior Developer by Oliver Dunn](https://www.prospects.ac.uk/case-studies/junior-software-developer-oliver-dunn)
 
 ## Mentoring
 
