@@ -2,8 +2,11 @@
 
 This is a curated list of learning links to assist in learning the technology stack we use here at SFG20. If you're here, it's likely we've met you and we really see potential in you. If we've not met you and you're here, welcome! Below you will find a list of links that will help you prepare for an interview or role at SFG20.
 
-Here's a case study from one of our colleagues who has successfully completed our Junior Developer programme:
-[Junior Software Developer - Oliver Dunn](https://www.prospects.ac.uk/case-studies/junior-software-developer-oliver-dunn)
+## Background reading
+
+- [An introduction and explanation of our design pattern and architecture](https://dev.to/miketalbot/inversion-of-control-pt-0-introduction-190b)
+  Here's a case study from one of our colleagues who has successfully completed our Junior Developer programme:
+- [Junior Software Developer - Oliver Dunn](https://www.prospects.ac.uk/case-studies/junior-software-developer-oliver-dunn)
 
 ## Mentoring
 
