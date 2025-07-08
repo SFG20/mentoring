@@ -1,4 +1,4 @@
-# Preparing for Success
+# Preparing for Interview Success
 
 A practical guide to preparing for interviews and building your confidence as a Junior developer candidate. This document was prepared by [@CiaranO-C](https://github.com/CiaranO-C) with contributions from [@globalroo](https://github.com/globalroo) and [@GrahamTheDevRel](https://github.com/GrahamTheDevRel).
 
