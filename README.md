@@ -6,6 +6,7 @@ This is a curated list of learning links to assist in learning the technology st
 
 - [An introduction and explanation of our design pattern and architecture](https://dev.to/miketalbot/inversion-of-control-pt-0-introduction-190b)
 - [What you can expect on your journey as a Junior Developer by Oliver Dunn](https://www.prospects.ac.uk/case-studies/junior-software-developer-oliver-dunn)
+- [Preparing for Interview Success as a Junior Developer by Ciaran O'Connell](./PREPARING_FOR_SUCCESS.md) <img src="https://img.shields.io/badge/new-brightgreen?style=plastic" height="12">
 
 ## Mentoring
 
